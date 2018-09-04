@@ -1,0 +1,9 @@
+platform :ios, ‘8.0’
+
+target “Nav_Example” do
+
+
+
+pod 'MJRefresh'
+
+end  
